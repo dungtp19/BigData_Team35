@@ -69,7 +69,7 @@ kafka-console-consumer \
   --from-beginning
 
 
-4. Postgre Container
+4. Postgres Container
 
 --- Truy cập Postgre container
 
