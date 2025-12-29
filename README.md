@@ -1,7 +1,10 @@
 
 1. Chạy Docker
+
 cd \sentiment-pipeline
+
 docker compose up -d
+
 docker ps
 
 2. Vào container Spark
